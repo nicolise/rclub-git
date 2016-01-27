@@ -7,4 +7,6 @@ new tex
 
 here is something that you need to fix
 
+now add some awesome lines of your own!
+
 t
